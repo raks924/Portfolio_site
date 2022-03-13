@@ -1,0 +1,93 @@
+body {
+    color: #40514E;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+a {
+    color: #11999E;
+
+}
+
+h1 {
+    line-height: 2;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+
+}
+
+h2 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66BFBF;
+    
+}
+
+hr {
+    border-style: dotted;
+    border
+    border-width: 10%;
+    width: 10%;
+}
+
+h3 {
+    color : #11999E;
+}
+
+.Development {
+    
+    width: 25% ;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+.Dancing {
+    
+    width: 25% ;
+    float: right;
+}
+
+.profile-description {
+    margin-top: 5px;
+}
+
+.profile-pic {
+    margin-top: 20px;
+    height: 250px;
+    width: 250px;
+}
+
+.top-container {
+    background-color: #E4F9F5;  
+    padding: 100px;
+    position: relative;
+}
+
+
+
+.top-cloud {
+    position: absolute;
+    margin: 0 auto;
+    right: 300px;
+    top:50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
